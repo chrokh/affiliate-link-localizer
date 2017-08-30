@@ -35,6 +35,7 @@ function find_closest_amazon_country_from_country_code ($code) {
   case 'FR':
   case 'CA':
   case 'ES':
+  case 'IN':
     return $code;
   case 'SE':
     return 'DE';
@@ -55,7 +56,8 @@ function get_extension_from_country_code ($code) {
     'IT' => 'it',
     'FR' => 'fr',
     'CA' => 'ca',
-    'ES' => 'es'
+    'ES' => 'es',
+    'IN' => 'in'
   )[$code];
 }
 

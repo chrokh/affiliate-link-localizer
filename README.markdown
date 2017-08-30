@@ -20,6 +20,7 @@ Create a `config.json` file with the following contents:
     "FR": "<your-associates-id>",
     "CA": "<your-associates-id>",
     "ES": "<your-associates-id>",
+    "IN": "<your-associates-id>",
   }
 }
 ```
