@@ -1,3 +1,7 @@
+DEPRECATED. NOT MAINTAINED.
+
+Should work just fine though so feel free to fork if you want to keep it going :)
+
 # Affiliate Link Localizer
 
 You are a content creator and you make money through Amazon affiliate links.
